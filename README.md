@@ -1,2 +1,0 @@
-# an-interactive-photo-gallery
- 
